@@ -1,0 +1,2 @@
+./uninstall.sh
+./build.sh
